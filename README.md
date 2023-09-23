@@ -1,8 +1,8 @@
 # React To-Do List
 
-A beautifully simple React to-do list app that empowers you to organize your tasks effortlessly. Add and delete items, and rest assured that your list will persist even after you close the browser.
+![reactlogo](https://github.com/pranjal-yadav05/To-Do/assets/126938164/a218dcc4-f44d-41e0-b1f7-de6db4f38d0c)
 
-![Screenshot](screenshot.png)
+A beautifully simple React to-do list app that empowers you to organize your tasks effortlessly. Add and delete items, and rest assured that your list will persist even after you close the browser.
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ To begin, follow these steps:
 ## Usage
    
    -To add a new to-do item, type it into the input field and press enter.
-   -To delete an item, simply click the X next to it.
+   -To delete an item, simply click the delete next to it.
    
    Your to-do list is securely persisted using local storage, ensuring that your tasks are always within reach, even after you close your browser.
 
@@ -36,5 +36,5 @@ To begin, follow these steps:
    
    Contributions are warmly welcomed! If you'd like to contribute, please submit pull requests while adhering to the code style and documentation guidelines.
 
-# Happy organizing!
+## Happy organizing!
 
