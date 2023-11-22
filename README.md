@@ -11,7 +11,7 @@ To begin, follow these steps:
 1. **Clone this repository and install the dependencies:**
 
    ```sh
-   git clone https://github.com/your-username/react-todo-list.git
+   git clone https://github.com/pranjal-yadav05/To-Do.git
    cd react-todo-list
    npm install
 
